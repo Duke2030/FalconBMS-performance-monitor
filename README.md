@@ -6,6 +6,8 @@ To determine what the bottlenecks are CPU,GPU,memory
 
 ## What is this?
 This executable monitors your system performance while running Falcon BMS and identifies bottlenecks in real-time.
+It is written completely by Ai and I did not change anything on the code because I'm NOT a developer.
+I can therefore give no support on this program;I just made it for myselve and wanted to share it so other people can benefit from it. 
 
 ## How to use:
 1. Start Falcon BMS (the tool will detect it automatically)

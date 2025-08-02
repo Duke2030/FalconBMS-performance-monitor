@@ -1,2 +1,2 @@
 # FalconBMS-performance-monitor
-To determine what the bottlenecks are CPPU,GPU,memory
+To determine what the bottlenecks are CPU,GPU,memory

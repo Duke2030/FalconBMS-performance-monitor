@@ -43,3 +43,6 @@ I can therefore give no support on this program;I just made it for myselve and w
 - The display updates every 2 seconds
 
 Built with Python and love for the Falcon BMS community!
+
+<img width="977" height="530" alt="image" src="https://github.com/user-attachments/assets/e8a30c5d-ae83-4f32-a33b-197c0dfc66f3" />
+

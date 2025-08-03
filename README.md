@@ -1,4 +1,4 @@
-# FalconBMS-performance-monitor
+# FalconBMS-performance-monitor VR
 To determine what the bottlenecks are CPU,GPU,memory
 
 
@@ -11,7 +11,7 @@ I can therefore give no support on this program;I just made it for myselve and w
 
 ## How to use:
 1. Start Falcon BMS (the tool will detect it automatically)
-2. Double-click "FalconBMS_PerformanceMonitor.exe"
+2. Double-click "FalconBMS_VR_Monitor.exe"
 3. Watch the real-time performance analysis
 4. Follow the recommendations to optimize performance
 
@@ -31,7 +31,8 @@ I can therefore give no support on this program;I just made it for myselve and w
 ## Requirements:
 - Windows 10/11
 - NVIDIA or AMD graphics card (for GPU monitoring)
-- No additional software installation required
+-  Openkneeboard (add a tab ;select capture window and select the location of the html that has been created )
+e.g. : file:///C:/temp/vr_performance.html
 
 ## Troubleshooting:
 - If GPU monitoring doesn't work, the tool will still monitor CPU and RAM

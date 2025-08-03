@@ -46,5 +46,5 @@ Built with Python and love for the Falcon BMS community!
 
 <img width="977" height="530" alt="image" src="https://github.com/user-attachments/assets/dc07255e-8b4d-4191-bed2-726c2e00b985" />
 
-This project is not affiliated with or endorsed by the official Falcon BMS developers or trademark holders."
+This project is not affiliated with or endorsed by the official Falcon BMS developers or trademark holders.
 
